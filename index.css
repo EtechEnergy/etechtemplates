@@ -1,0 +1,40 @@
+body{
+    font-family: "Open Sans", sans-serif !important;
+    color: white;
+    font-size: 0.75rem;
+    margin: 0;
+    padding: 0;
+    background-color: #000 !important;
+     
+}
+
+body > nav.navbar{
+    padding: 0rem 1rem;
+}
+
+a.navbar-brand{    
+    font-size: 1.1rem;
+    font-weight: 700;
+    padding-bottom: 0.5rem;
+}
+.statusBar{
+    line-height:1.5;
+    background-color: #FF6D00;
+    color: white;
+    padding: 0.01rem 0.5rem;
+    font-size: 0.8rem;
+}
+.bg-vumax1{
+    background-color: #333;
+}
+.bg-vumax2{
+   background-color: #222;
+}
+
+a.nav-link{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color: white !important;
+}
